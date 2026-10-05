@@ -62,3 +62,4 @@ git clone https://github.com/hijiangtao/resume.git --branch master --depth 1 --s
 [The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
 Copyrighted fonts are not subjected to this License.
+# resume
